@@ -2,7 +2,7 @@
 //     ime: "radovan",
 //     prezime: "brajovic"
 // }
-
+alert('radi');
 // console.log(window.);
 // console.log(document.querySelector("#pera"))
 
